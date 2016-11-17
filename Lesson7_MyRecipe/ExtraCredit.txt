@@ -1,0 +1,2 @@
+I changes multiple CSS elements like the text color, background color, border color, margin on the picture, picture size, etc.
+I also added the fade effect for the Jquery so that the elements will fade in when clicked. I used the next dom navigation. Overall this page looks drastically different from the original. 
